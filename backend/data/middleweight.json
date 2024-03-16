@@ -1,0 +1,459 @@
+[
+    {
+        "generated_at": "2024-03-16T21:00:05+00:00",
+        "competitor": {
+            "id": "sr:competitor:400461",
+            "name": "Du Plessis, Dricus",
+            "abbreviation": "DU",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "WELKOM, SOUTH AFRICA",
+            "birth_date": "1994-01-14",
+            "fighting_out_of_city": "Pretoria",
+            "fighting_out_of_country": "SOUTH AFRICA",
+            "fighting_out_of_country_code": "ZAF",
+            "fighting_out_of_state": "-",
+            "reach": 193,
+            "height": 185,
+            "weight": 83.5,
+            "nickname": "Stillknocks"
+        },
+        "record": {
+            "wins": 20,
+            "draws": 0,
+            "losses": 2
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:00:13+00:00",
+        "competitor": {
+            "id": "sr:competitor:244108",
+            "name": "Strickland, Sean",
+            "abbreviation": "STR",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "New Bern",
+            "birth_state": "NC",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1991-02-27",
+            "fighting_out_of_city": "Riverside",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "CA",
+            "reach": 193,
+            "height": 185,
+            "weight": 83.8
+        },
+        "record": {
+            "wins": 28,
+            "draws": 0,
+            "losses": 5
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:00:09+00:00",
+        "competitor": {
+            "id": "sr:competitor:410485",
+            "name": "Adesanya, Israel",
+            "abbreviation": "ADE",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Lagos",
+            "birth_state": "-",
+            "birth_country": "NIGERIA",
+            "birth_country_code": "NGA",
+            "birth_date": "1989-07-22",
+            "fighting_out_of_city": "Auckland",
+            "fighting_out_of_country": "NEW ZEALAND",
+            "fighting_out_of_country_code": "NZL",
+            "fighting_out_of_state": "-",
+            "reach": 203,
+            "height": 193,
+            "weight": 83.8,
+            "nickname": "The Last Stylebender"
+        },
+        "record": {
+            "wins": 24,
+            "draws": 0,
+            "losses": 3
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:03:04+00:00",
+        "competitor": {
+            "id": "sr:competitor:253377",
+            "name": "Whittaker, Robert",
+            "abbreviation": "WHI",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Auckland",
+            "birth_state": "-",
+            "birth_country": "NEW ZEALAND",
+            "birth_country_code": "NZL",
+            "birth_date": "1990-12-20",
+            "fighting_out_of_city": "New South Wales",
+            "fighting_out_of_country": "AUSTRALIA",
+            "fighting_out_of_country_code": "AUS",
+            "fighting_out_of_state": "-",
+            "reach": 187,
+            "height": 182,
+            "weight": 84.1,
+            "nickname": "The Reaper"
+        },
+        "record": {
+            "wins": 26,
+            "draws": 0,
+            "losses": 7
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:03:07+00:00",
+        "competitor": {
+            "id": "sr:competitor:250133",
+            "name": "Cannonier, Jared",
+            "abbreviation": "CAN",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Dallas",
+            "birth_state": "TX",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1984-03-16",
+            "fighting_out_of_city": "Phoenix",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "AZ",
+            "reach": 197,
+            "height": 180,
+            "weight": 84.1,
+            "nickname": "Tha Killa Gorilla"
+        },
+        "record": {
+            "wins": 17,
+            "draws": 0,
+            "losses": 6
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:03:09+00:00",
+        "competitor": {
+            "id": "sr:competitor:278713",
+            "name": "Vettori, Marvin",
+            "abbreviation": "VET",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Trento",
+            "birth_state": "-",
+            "birth_country": "ITALY",
+            "birth_country_code": "ITA",
+            "birth_date": "1993-09-20",
+            "fighting_out_of_city": "Mezzocorona",
+            "fighting_out_of_country": "ITALY",
+            "fighting_out_of_country_code": "ITA",
+            "fighting_out_of_state": "-",
+            "reach": 188,
+            "height": 183,
+            "weight": 84.1,
+            "nickname": "The Italian Dream"
+        },
+        "record": {
+            "wins": 19,
+            "draws": 1,
+            "losses": 7
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:03:10+00:00",
+        "competitor": {
+            "id": "sr:competitor:599908",
+            "name": "Allen, Brendan",
+            "abbreviation": "ALL",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "BEAUFORT, UNITED STATES",
+            "birth_date": "1995-12-28",
+            "fighting_out_of_city": "Slidell",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "LA",
+            "reach": 191,
+            "height": 188,
+            "weight": 84.4,
+            "nickname": "All In"
+        },
+        "record": {
+            "wins": 23,
+            "draws": 0,
+            "losses": 5
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:03:13+00:00",
+        "competitor": {
+            "id": "sr:competitor:320689",
+            "name": "Costa, Paulo Henrique",
+            "abbreviation": "COS",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Belo Horizonte",
+            "birth_state": "-",
+            "birth_country": "BRAZIL",
+            "birth_country_code": "BRA",
+            "birth_date": "1991-04-21",
+            "fighting_out_of_city": "Belo Horizonte",
+            "fighting_out_of_country": "BRAZIL",
+            "fighting_out_of_country_code": "BRA",
+            "fighting_out_of_state": "-",
+            "reach": 183,
+            "height": 185,
+            "weight": 84.1,
+            "nickname": "The Eraser"
+        },
+        "record": {
+            "wins": 14,
+            "draws": 0,
+            "losses": 3
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:03:14+00:00",
+        "competitor": {
+            "id": "sr:competitor:742869",
+            "name": "Imavov, Nassourdine",
+            "abbreviation": "IMA",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Dagestan",
+            "birth_state": "-",
+            "birth_country": "RUSSIAN FEDERATION",
+            "birth_country_code": "RUS",
+            "birth_date": "1995-03-01",
+            "fighting_out_of_city": "Salon-de-Provence",
+            "fighting_out_of_country": "FRANCE",
+            "fighting_out_of_country_code": "FRA",
+            "fighting_out_of_state": "-",
+            "reach": 191,
+            "height": 191,
+            "weight": 83.9,
+            "nickname": "Russian Sniper"
+        },
+        "record": {
+            "wins": 13,
+            "draws": 0,
+            "losses": 4,
+            "no_contests": 1
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:03:17+00:00",
+        "competitor": {
+            "id": "sr:competitor:278283",
+            "name": "Hermansson, Jack",
+            "abbreviation": "HER",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Uddevalla",
+            "birth_state": "-",
+            "birth_country": "SWEDEN",
+            "birth_country_code": "SWE",
+            "birth_date": "1988-06-10",
+            "fighting_out_of_city": "Oslo",
+            "fighting_out_of_country": "NORWAY",
+            "fighting_out_of_country_code": "NOR",
+            "fighting_out_of_state": "-",
+            "reach": 197,
+            "height": 185,
+            "weight": 84.4,
+            "nickname": "The Joker"
+        },
+        "record": {
+            "wins": 24,
+            "draws": 0,
+            "losses": 8
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:03:19+00:00",
+        "competitor": {
+            "id": "sr:competitor:577053",
+            "name": "Dolidze, Roman",
+            "abbreviation": "DOL",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Batumi",
+            "birth_state": "-",
+            "birth_country": "GEORGIA",
+            "birth_country_code": "GEO",
+            "birth_date": "1988-07-15",
+            "fighting_out_of_city": "Odessa",
+            "fighting_out_of_country": "UKRAINE",
+            "fighting_out_of_country_code": "UKR",
+            "fighting_out_of_state": "-",
+            "reach": 193,
+            "height": 188,
+            "weight": 84.4
+        },
+        "record": {
+            "wins": 12,
+            "draws": 0,
+            "losses": 3
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:03:21+00:00",
+        "competitor": {
+            "id": "sr:competitor:728833",
+            "name": "Chimaev, Khamzat",
+            "abbreviation": "CHI",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Chechen Republic",
+            "birth_state": "-",
+            "birth_country": "RUSSIAN FEDERATION",
+            "birth_country_code": "RUS",
+            "birth_date": "1994-05-01",
+            "fighting_out_of_city": "Stockholm",
+            "fighting_out_of_country": "SWEDEN",
+            "fighting_out_of_country_code": "SWE",
+            "fighting_out_of_state": "-",
+            "reach": 191,
+            "height": 188,
+            "weight": 84.1,
+            "nickname": "Borz"
+        },
+        "record": {
+            "wins": 13,
+            "draws": 0,
+            "losses": 0
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:03:23+00:00",
+        "competitor": {
+            "id": "sr:competitor:449127",
+            "name": "Hernandez, Anthony",
+            "abbreviation": "HER",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "OAKLAND, UNITED STATES",
+            "birth_date": "1993-10-18",
+            "fighting_out_of_city": "Dunnigan",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "CA",
+            "reach": 191,
+            "height": 183,
+            "weight": 84.1,
+            "nickname": "Fluffy"
+        },
+        "record": {
+            "wins": 12,
+            "draws": 0,
+            "losses": 2,
+            "no_contests": 1
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:03:25+00:00",
+        "competitor": {
+            "id": "sr:competitor:306502",
+            "name": "Craig, Paul",
+            "abbreviation": "CRA",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Airdrie",
+            "birth_state": "-",
+            "birth_country": "SCOTLAND",
+            "birth_country_code": "SCO",
+            "birth_date": "1987-10-27",
+            "fighting_out_of_city": "Coatbridge",
+            "fighting_out_of_country": "SCOTLAND",
+            "fighting_out_of_country_code": "SCO",
+            "fighting_out_of_state": "-",
+            "reach": 193,
+            "height": 192,
+            "weight": 84.4,
+            "nickname": "BearJew"
+        },
+        "record": {
+            "wins": 17,
+            "draws": 1,
+            "losses": 7
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:03:27+00:00",
+        "competitor": {
+            "id": "sr:competitor:449105",
+            "name": "Curtis, Chris",
+            "abbreviation": "CUR",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Cincinnati",
+            "birth_state": "OH",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1987-07-15",
+            "fighting_out_of_city": "Las Vegas",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "NV",
+            "reach": 192,
+            "height": 178,
+            "weight": 84,
+            "nickname": "Action-Man"
+        },
+        "record": {
+            "wins": 31,
+            "draws": 0,
+            "losses": 10,
+            "no_contests": 1
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:03:29+00:00",
+        "competitor": {
+            "id": "sr:competitor:820060",
+            "name": "Borralho, Caio",
+            "abbreviation": "BOR",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Sao Luis",
+            "birth_state": "-",
+            "birth_country": "BRAZIL",
+            "birth_country_code": "BRA",
+            "birth_date": "1993-01-16",
+            "fighting_out_of_city": "Sao Paulo",
+            "fighting_out_of_country": "BRAZIL",
+            "fighting_out_of_country_code": "BRA",
+            "fighting_out_of_state": "-",
+            "reach": 191,
+            "height": 185,
+            "weight": 84.4,
+            "nickname": "The Natural"
+        },
+        "record": {
+            "wins": 15,
+            "draws": 0,
+            "losses": 1,
+            "no_contests": 1
+        }
+    }
+]

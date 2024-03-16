@@ -1,0 +1,456 @@
+[
+    {
+        "generated_at": "2024-03-16T20:59:53+00:00",
+        "competitor": {
+            "id": "sr:competitor:256121",
+            "name": "Edwards, Leon",
+            "abbreviation": "EDW",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Kingston",
+            "birth_state": "-",
+            "birth_country": "JAMAICA",
+            "birth_country_code": "JAM",
+            "birth_date": "1990-08-25",
+            "fighting_out_of_city": "Birmingham",
+            "fighting_out_of_country": "ENGLAND",
+            "fighting_out_of_country_code": "ENG",
+            "fighting_out_of_state": "-",
+            "reach": 188,
+            "height": 188,
+            "weight": 77.1,
+            "nickname": "Rocky"
+        },
+        "record": {
+            "wins": 22,
+            "draws": 0,
+            "losses": 3,
+            "no_contests": 1
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:28+00:00",
+        "competitor": {
+            "id": "sr:competitor:273539",
+            "name": "Usman, Kamaru",
+            "abbreviation": "USM",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Auchi",
+            "birth_state": "-",
+            "birth_country": "NIGERIA",
+            "birth_country_code": "NGA",
+            "birth_date": "1987-05-11",
+            "fighting_out_of_city": "Fort Lauderdale",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "FL",
+            "reach": 193,
+            "height": 183,
+            "weight": 83.7,
+            "nickname": "Nigerian Nightmare"
+        },
+        "record": {
+            "wins": 20,
+            "draws": 0,
+            "losses": 4
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:31+00:00",
+        "competitor": {
+            "id": "sr:competitor:267867",
+            "name": "Muhammad, Belal",
+            "abbreviation": "MUH",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Chicago",
+            "birth_state": "IL",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1988-07-09",
+            "fighting_out_of_city": "Chicago",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "IL",
+            "reach": 183,
+            "height": 180,
+            "weight": 77.1,
+            "nickname": "Remember The Name"
+        },
+        "record": {
+            "wins": 23,
+            "draws": 0,
+            "losses": 3,
+            "no_contests": 1
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:33+00:00",
+        "competitor": {
+            "id": "sr:competitor:561032",
+            "name": "Rakhmonov, Shavkat",
+            "abbreviation": "RAK",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Karaganda",
+            "birth_state": "-",
+            "birth_country": "KAZAKHSTAN",
+            "birth_country_code": "KAZ",
+            "birth_date": "1994-10-23",
+            "fighting_out_of_city": "Kokshetau",
+            "fighting_out_of_country": "KAZAKHSTAN",
+            "fighting_out_of_country_code": "KAZ",
+            "fighting_out_of_state": "-",
+            "reach": 196,
+            "height": 185,
+            "weight": 77.6,
+            "nickname": "Nomad"
+        },
+        "record": {
+            "wins": 18,
+            "draws": 0,
+            "losses": 0
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:35+00:00",
+        "competitor": {
+            "id": "sr:competitor:265079",
+            "name": "Covington, Colby",
+            "abbreviation": "COV",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Clovis",
+            "birth_state": "CA",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1988-02-22",
+            "fighting_out_of_city": "Fort Lauderdale",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "FL",
+            "reach": 183,
+            "height": 180,
+            "weight": 77.1,
+            "nickname": "Chaos"
+        },
+        "record": {
+            "wins": 17,
+            "draws": 0,
+            "losses": 4
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:37+00:00",
+        "competitor": {
+            "id": "sr:competitor:830050",
+            "name": "Della Maddalena, Jack",
+            "abbreviation": "DEL",
+            "gender": "male"
+        },
+        "info": {
+            "birth_date": "1996-09-10",
+            "fighting_out_of_city": "Perth",
+            "fighting_out_of_country": "AUSTRALIA",
+            "fighting_out_of_country_code": "AUS",
+            "fighting_out_of_state": "-",
+            "reach": 185,
+            "height": 180,
+            "weight": 77.1
+        },
+        "record": {
+            "wins": 17,
+            "draws": 0,
+            "losses": 2
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:38+00:00",
+        "competitor": {
+            "id": "sr:competitor:267851",
+            "name": "Burns, Gilbert",
+            "abbreviation": "BUR",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Niteroi",
+            "birth_state": "-",
+            "birth_country": "BRAZIL",
+            "birth_country_code": "BRA",
+            "birth_date": "1986-07-20",
+            "fighting_out_of_city": "Miami",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "FL",
+            "reach": 180,
+            "height": 178,
+            "weight": 77.6,
+            "nickname": "Durinho"
+        },
+        "record": {
+            "wins": 22,
+            "draws": 0,
+            "losses": 7
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:41+00:00",
+        "competitor": {
+            "id": "sr:competitor:594908",
+            "name": "Garry, Ian",
+            "abbreviation": "GAR",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Dublin",
+            "birth_state": "-",
+            "birth_country": "IRELAND",
+            "birth_country_code": "IRL",
+            "birth_date": "1997-11-17",
+            "fighting_out_of_city": "Dublin",
+            "fighting_out_of_country": "IRELAND",
+            "fighting_out_of_country_code": "IRL",
+            "fighting_out_of_state": "-",
+            "reach": 188,
+            "height": 191,
+            "weight": 77.3,
+            "nickname": "The Future"
+        },
+        "record": {
+            "wins": 14,
+            "draws": 0,
+            "losses": 0
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:42+00:00",
+        "competitor": {
+            "id": "sr:competitor:579813",
+            "name": "Brady, Sean",
+            "abbreviation": "BRA",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "PHILADELPHIA, UNITED STATES",
+            "birth_date": "1992-11-23",
+            "fighting_out_of_city": "Philadelphia",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "PA",
+            "reach": 183,
+            "height": 178,
+            "weight": 77.1
+        },
+        "record": {
+            "wins": 16,
+            "draws": 0,
+            "losses": 1
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:45+00:00",
+        "competitor": {
+            "id": "sr:competitor:265063",
+            "name": "Thompson, Stephen",
+            "abbreviation": "THO",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Simpsonville",
+            "birth_state": "SC",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1983-02-11",
+            "fighting_out_of_city": "Simpsonville",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "SC",
+            "reach": 191,
+            "height": 183,
+            "weight": 77.1,
+            "nickname": "Wonderboy"
+        },
+        "record": {
+            "wins": 17,
+            "draws": 1,
+            "losses": 7
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:47+00:00",
+        "competitor": {
+            "id": "sr:competitor:413419",
+            "name": "Neal, Geoffrey",
+            "abbreviation": "NEA",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Austin",
+            "birth_state": "TX",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1990-08-28",
+            "fighting_out_of_city": "Dallas",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "TX",
+            "reach": 191,
+            "height": 180,
+            "weight": 77.3,
+            "nickname": "Handz of Steel"
+        },
+        "record": {
+            "wins": 15,
+            "draws": 0,
+            "losses": 6
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:49+00:00",
+        "competitor": {
+            "id": "sr:competitor:267863",
+            "name": "Luque, Vicente",
+            "abbreviation": "LUQ",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Westwood",
+            "birth_state": "NJ",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1991-11-27",
+            "fighting_out_of_city": "Brasilia",
+            "fighting_out_of_country": "BRAZIL",
+            "fighting_out_of_country_code": "BRA",
+            "fighting_out_of_state": "-",
+            "reach": 193,
+            "height": 180,
+            "weight": 77.3,
+            "nickname": "The Silent Assassin"
+        },
+        "record": {
+            "wins": 22,
+            "draws": 1,
+            "losses": 9
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:51+00:00",
+        "competitor": {
+            "id": "sr:competitor:248605",
+            "name": "Magny, Neil",
+            "abbreviation": "MAG",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Brooklyn",
+            "birth_state": "NY",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1987-08-03",
+            "fighting_out_of_city": "Dolton",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "IL",
+            "reach": 203,
+            "height": 191,
+            "weight": 77.5,
+            "nickname": "The Haitian Sensation"
+        },
+        "record": {
+            "wins": 29,
+            "draws": 0,
+            "losses": 12
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:53+00:00",
+        "competitor": {
+            "id": "sr:competitor:254237",
+            "name": "Page, Michael",
+            "abbreviation": "PAG",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "London",
+            "birth_state": "-",
+            "birth_country": "ENGLAND",
+            "birth_country_code": "ENG",
+            "birth_date": "1987-04-07",
+            "reach": 201,
+            "height": 191,
+            "weight": 77.1,
+            "nickname": "Venom"
+        },
+        "record": {
+            "wins": 13,
+            "draws": 0,
+            "losses": 0
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:55+00:00",
+        "competitor": {
+            "id": "sr:competitor:542073",
+            "name": "Holland, Kevin",
+            "abbreviation": "HOL",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Riverside",
+            "birth_state": "CA",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1992-10-05",
+            "fighting_out_of_city": "Fort Worth",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "TX",
+            "reach": 206,
+            "height": 191,
+            "weight": 77.1,
+            "nickname": "Trailblazer"
+        },
+        "record": {
+            "wins": 25,
+            "draws": 0,
+            "losses": 11,
+            "no_contests": 1
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:02:57+00:00",
+        "competitor": {
+            "id": "sr:competitor:237628",
+            "name": "Chiesa, Michael",
+            "abbreviation": "CHI",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Aurora",
+            "birth_state": "IL",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1987-12-07",
+            "fighting_out_of_city": "Spokane Valley",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "WA",
+            "reach": 192,
+            "height": 185,
+            "weight": 77.1,
+            "nickname": "Maverick"
+        },
+        "record": {
+            "wins": 18,
+            "draws": 0,
+            "losses": 7
+        }
+    }
+]

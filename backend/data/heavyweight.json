@@ -1,0 +1,456 @@
+[
+    {
+        "generated_at": "2024-03-16T20:59:51+00:00",
+        "competitor": {
+            "id": "sr:competitor:253371",
+            "name": "Jones, Jon",
+            "abbreviation": "JON",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Rochester",
+            "birth_state": "NY",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1987-07-19",
+            "fighting_out_of_city": "Albuquerque",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "NM",
+            "reach": 215,
+            "height": 194,
+            "weight": 112.5,
+            "nickname": "Bones"
+        },
+        "record": {
+            "wins": 27,
+            "draws": 0,
+            "losses": 1,
+            "no_contests": 1
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:00:11+00:00",
+        "competitor": {
+            "id": "sr:competitor:545279",
+            "name": "Aspinall, Tom",
+            "abbreviation": "ASP",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Wigan",
+            "birth_state": "-",
+            "birth_country": "ENGLAND",
+            "birth_country_code": "ENG",
+            "birth_date": "1993-04-11",
+            "fighting_out_of_city": "Wigan",
+            "fighting_out_of_country": "ENGLAND",
+            "fighting_out_of_country_code": "ENG",
+            "fighting_out_of_state": "-",
+            "reach": 198,
+            "height": 196,
+            "weight": 118.6
+        },
+        "record": {
+            "wins": 14,
+            "draws": 0,
+            "losses": 3
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:04:06+00:00",
+        "competitor": {
+            "id": "sr:competitor:595034",
+            "name": "Gane, Ciryl",
+            "abbreviation": "GAN",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "La Roche-sur-Yon",
+            "birth_state": "-",
+            "birth_country": "FRANCE",
+            "birth_country_code": "FRA",
+            "birth_date": "1990-05-08",
+            "fighting_out_of_city": "Paris",
+            "fighting_out_of_country": "FRANCE",
+            "fighting_out_of_country_code": "FRA",
+            "fighting_out_of_state": "-",
+            "reach": 206,
+            "height": 193,
+            "weight": 113.4,
+            "nickname": "Bon Gamin"
+        },
+        "record": {
+            "wins": 12,
+            "draws": 0,
+            "losses": 2
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:04:09+00:00",
+        "competitor": {
+            "id": "sr:competitor:515358",
+            "name": "Pavlovich, Sergei",
+            "abbreviation": "PAV",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Orlovsky",
+            "birth_state": "-",
+            "birth_country": "RUSSIAN FEDERATION",
+            "birth_country_code": "RUS",
+            "birth_date": "1992-05-13",
+            "fighting_out_of_city": "Moscow",
+            "fighting_out_of_country": "RUSSIAN FEDERATION",
+            "fighting_out_of_country_code": "RUS",
+            "fighting_out_of_state": "-",
+            "reach": 213,
+            "height": 191,
+            "weight": 117.8
+        },
+        "record": {
+            "wins": 18,
+            "draws": 0,
+            "losses": 2
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:04:11+00:00",
+        "competitor": {
+            "id": "sr:competitor:237684",
+            "name": "Miocic, Stipe",
+            "abbreviation": "MIO",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Euclid",
+            "birth_state": "OH",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1982-08-19",
+            "fighting_out_of_city": "Independence",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "OH",
+            "reach": 203,
+            "height": 194,
+            "weight": 106.1
+        },
+        "record": {
+            "wins": 20,
+            "draws": 0,
+            "losses": 4
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:04:12+00:00",
+        "competitor": {
+            "id": "sr:competitor:542009",
+            "name": "Blaydes, Curtis",
+            "abbreviation": "BLA",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Naperville",
+            "birth_state": "IL",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1991-02-18",
+            "fighting_out_of_city": "Chicago",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "IL",
+            "reach": 203,
+            "height": 193,
+            "weight": 116.8,
+            "nickname": "Razor"
+        },
+        "record": {
+            "wins": 17,
+            "draws": 0,
+            "losses": 4,
+            "no_contests": 1
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:04:15+00:00",
+        "competitor": {
+            "id": "sr:competitor:542161",
+            "name": "Volkov, Alexander",
+            "abbreviation": "VOL",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Moscow",
+            "birth_state": "-",
+            "birth_country": "RUSSIAN FEDERATION",
+            "birth_country_code": "RUS",
+            "birth_date": "1988-10-24",
+            "fighting_out_of_city": "Moscow",
+            "fighting_out_of_country": "RUSSIAN FEDERATION",
+            "fighting_out_of_country_code": "RUS",
+            "fighting_out_of_state": "-",
+            "reach": 203,
+            "height": 201,
+            "weight": 119.3,
+            "nickname": "Drago"
+        },
+        "record": {
+            "wins": 37,
+            "draws": 0,
+            "losses": 10
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:04:17+00:00",
+        "competitor": {
+            "id": "sr:competitor:820044",
+            "name": "Almeida, Jailton",
+            "abbreviation": "ALM",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Salvador",
+            "birth_state": "Bahia",
+            "birth_country": "BRAZIL",
+            "birth_country_code": "BRA",
+            "birth_date": "1991-06-26",
+            "fighting_out_of_city": "Salvador",
+            "fighting_out_of_country": "BRAZIL",
+            "fighting_out_of_country_code": "BRA",
+            "fighting_out_of_state": "Bahia",
+            "reach": 201,
+            "height": 191,
+            "weight": 109.3,
+            "nickname": "Malhadinho"
+        },
+        "record": {
+            "wins": 20,
+            "draws": 0,
+            "losses": 2
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:04:19+00:00",
+        "competitor": {
+            "id": "sr:competitor:567207",
+            "name": "Spivak, Sergey",
+            "abbreviation": "SPI",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "CHISINAU, MOLDOVA",
+            "birth_date": "1995-01-24",
+            "reach": 198,
+            "height": 190,
+            "weight": 116.1,
+            "nickname": "Polar Bear"
+        },
+        "record": {
+            "wins": 16,
+            "draws": 0,
+            "losses": 4
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:04:20+00:00",
+        "competitor": {
+            "id": "sr:competitor:393034",
+            "name": "Tuivasa, Tai",
+            "abbreviation": "TUI",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Sydney",
+            "birth_state": "-",
+            "birth_country": "AUSTRALIA",
+            "birth_country_code": "AUS",
+            "birth_date": "1993-03-16",
+            "fighting_out_of_city": "Sydney",
+            "fighting_out_of_country": "AUSTRALIA",
+            "fighting_out_of_country_code": "AUS",
+            "fighting_out_of_state": "-",
+            "reach": 191,
+            "height": 188,
+            "weight": 120.4,
+            "nickname": "Bam Bam"
+        },
+        "record": {
+            "wins": 15,
+            "draws": 0,
+            "losses": 6
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:04:22+00:00",
+        "competitor": {
+            "id": "sr:competitor:250173",
+            "name": "Tybura, Marcin",
+            "abbreviation": "TYB",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Uniejow",
+            "birth_state": "-",
+            "birth_country": "POLAND",
+            "birth_country_code": "POL",
+            "birth_date": "1985-11-09",
+            "fighting_out_of_city": "Lodz",
+            "fighting_out_of_country": "POLAND",
+            "fighting_out_of_country_code": "POL",
+            "fighting_out_of_state": "-",
+            "reach": 198,
+            "height": 191,
+            "weight": 112,
+            "nickname": "Tybur"
+        },
+        "record": {
+            "wins": 24,
+            "draws": 0,
+            "losses": 8
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:04:25+00:00",
+        "competitor": {
+            "id": "sr:competitor:542143",
+            "name": "Rozenstruik, Jairzinho",
+            "abbreviation": "ROZ",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Paramaribo",
+            "birth_state": "-",
+            "birth_country": "SURINAME",
+            "birth_country_code": "SUR",
+            "birth_date": "1988-03-17",
+            "fighting_out_of_city": "Paramaribo",
+            "fighting_out_of_country": "SURINAME",
+            "fighting_out_of_country_code": "SUR",
+            "fighting_out_of_state": "-",
+            "reach": 198,
+            "height": 188,
+            "weight": 116.6,
+            "nickname": "Bigi Boy"
+        },
+        "record": {
+            "wins": 14,
+            "draws": 0,
+            "losses": 5
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:04:27+00:00",
+        "competitor": {
+            "id": "sr:competitor:542099",
+            "name": "Lewis, Derrick",
+            "abbreviation": "LEW",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "New Orleans",
+            "birth_state": "LA",
+            "birth_country": "UNITED STATES",
+            "birth_country_code": "USA",
+            "birth_date": "1985-02-07",
+            "fighting_out_of_city": "Houston",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
+            "fighting_out_of_state": "TX",
+            "reach": 201,
+            "height": 191,
+            "weight": 120.2,
+            "nickname": "The Black Beast"
+        },
+        "record": {
+            "wins": 27,
+            "draws": 0,
+            "losses": 12,
+            "no_contests": 1
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:04:29+00:00",
+        "competitor": {
+            "id": "sr:competitor:685123",
+            "name": "Romanov, Alexander",
+            "abbreviation": "ROM",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Comrat",
+            "birth_state": "-",
+            "birth_country": "MOLDOVA, REPUBLIC OF",
+            "birth_country_code": "MDA",
+            "birth_date": "1990-12-11",
+            "fighting_out_of_city": "Comrat",
+            "fighting_out_of_country": "MOLDOVA, REPUBLIC OF",
+            "fighting_out_of_country_code": "MDA",
+            "fighting_out_of_state": "-",
+            "reach": 191,
+            "height": 188,
+            "weight": 119.7,
+            "nickname": "King Kong"
+        },
+        "record": {
+            "wins": 17,
+            "draws": 0,
+            "losses": 2
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:04:31+00:00",
+        "competitor": {
+            "id": "sr:competitor:254233",
+            "name": "de Lima, Marcos Rogerio",
+            "abbreviation": "DE",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Ribeirao Pires",
+            "birth_state": "-",
+            "birth_country": "BRAZIL",
+            "birth_country_code": "BRA",
+            "birth_date": "1985-06-25",
+            "fighting_out_of_city": "Sao Paulo",
+            "fighting_out_of_country": "BRAZIL",
+            "fighting_out_of_country_code": "BRA",
+            "fighting_out_of_state": "-",
+            "reach": 191,
+            "height": 185,
+            "weight": 118.6,
+            "nickname": "Pezao"
+        },
+        "record": {
+            "wins": 22,
+            "draws": 1,
+            "losses": 10
+        }
+    },
+    {
+        "generated_at": "2024-03-16T21:04:33+00:00",
+        "competitor": {
+            "id": "sr:competitor:570415",
+            "name": "Nascimento Ferreira, Rodrigo",
+            "abbreviation": "NAS",
+            "gender": "male"
+        },
+        "info": {
+            "birth_city": "Belo Horizonte",
+            "birth_state": "-",
+            "birth_country": "BRAZIL",
+            "birth_country_code": "BRA",
+            "birth_date": "1992-11-26",
+            "reach": 203,
+            "height": 188,
+            "weight": 119.7,
+            "nickname": "Ze' Colmeia"
+        },
+        "record": {
+            "wins": 11,
+            "draws": 0,
+            "losses": 1,
+            "no_contests": 1
+        }
+    }
+]
