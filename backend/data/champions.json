@@ -1,105 +1,108 @@
 {
     "generated_at": "2024-03-16T16:31:04+00:00",
-    "categories": [
-        {
-            "id": "sr:category:1089",
-            "name": "UFC",
-            "weight_classes": [
-                {
-                    "description": "bantamweight",
-                    "competitor": {
-                        "id": "sr:competitor:397240",
-                        "name": "O'Malley, Sean",
-                        "abbreviation": "OMA",
-                        "gender": "male"
-                    }
-                },
-                {
-                    "description": "featherweight",
-                    "competitor": {
-                        "id": "sr:competitor:750503",
-                        "name": "Topuria, Ilia",
-                        "abbreviation": "TOP",
-                        "gender": "male"
-                    }
-                },
-                {
-                    "description": "flyweight",
-                    "competitor": {
-                        "id": "sr:competitor:312032",
-                        "name": "Pantoja, Alexandre",
-                        "abbreviation": "PAN",
-                        "gender": "male"
-                    }
-                },
-                {
-                    "description": "heavyweight",
-                    "competitor": {
-                        "id": "sr:competitor:253371",
-                        "name": "Jones, Jon",
-                        "abbreviation": "JON",
-                        "gender": "male"
-                    }
-                },
-                {
-                    "description": "light_heavyweight",
-                    "competitor": {
-                        "id": "sr:competitor:837536",
-                        "name": "Pereira, Alex",
-                        "abbreviation": "PER",
-                        "gender": "male"
-                    }
-                },
-                {
-                    "description": "welterweight",
-                    "competitor": {
-                        "id": "sr:competitor:256121",
-                        "name": "Edwards, Leon",
-                        "abbreviation": "EDW",
-                        "gender": "male"
-                    }
-                },
-                {
-                    "description": "womens_bantamweight",
-                    "competitor": {
-                        "id": "sr:competitor:542125",
-                        "name": "Pennington, Raquel",
-                        "abbreviation": "PEN",
-                        "gender": "female"
-                    }
-                },
-                {
-                    "description": "womens_featherweight",
-                    "competitor": {
-                        "id": "sr:competitor:246051",
-                        "name": "Nunes, Amanda",
-                        "abbreviation": "NUN",
-                        "gender": "female"
-                    }
-                },
-                {
-                    "description": "womens_flyweight",
-                    "competitor": {
-                        "id": "sr:competitor:542061",
-                        "name": "Grasso, Alexa",
-                        "abbreviation": "GRA",
-                        "gender": "female"
-                    }
-                },
-                {
-                    "description": "womens_strawweight",
-                    "competitor": {
-                        "id": "sr:competitor:542175",
-                        "name": "Zhang, Weili",
-                        "abbreviation": "ZHA",
-                        "gender": "female"
-                    }
+    "categories": {
+        "id": "sr:category:1089",
+        "name": "UFC",
+        "weight_classes": [
+            {
+                "description": "flyweight",
+                "competitor": {
+                    "id": "sr:competitor:312032",
+                    "name": "Pantoja, Alexandre",
+                    "abbreviation": "PAN",
+                    "gender": "male"
                 }
-            ]
-        },
-        {
-            "id": "sr:category:1090",
-            "name": "Bellator"
-        }
-    ]
+            },
+            {
+                "description": "bantamweight",
+                "competitor": {
+                    "id": "sr:competitor:397240",
+                    "name": "O'Malley, Sean",
+                    "abbreviation": "OMA",
+                    "gender": "male"
+                }
+            },
+            {
+                "description": "featherweight",
+                "competitor": {
+                    "id": "sr:competitor:750503",
+                    "name": "Topuria, Ilia",
+                    "abbreviation": "TOP",
+                    "gender": "male"
+                }
+            },
+            {
+                "description": "welterweight",
+                "competitor": {
+                    "id": "sr:competitor:256121",
+                    "name": "Edwards, Leon",
+                    "abbreviation": "EDW",
+                    "gender": "male"
+                }
+            },
+            {
+                "description": "middleweight",
+                "competitor": {
+                    "id": "sr:competitor:400461",
+                    "name": "Du Plessis, Dricus",
+                    "abbreviation": "DU",
+                    "gender": "male"
+                }
+            },
+            {
+                "description": "light_heavyweight",
+                "competitor": {
+                    "id": "sr:competitor:837536",
+                    "name": "Pereira, Alex",
+                    "abbreviation": "PER",
+                    "gender": "male"
+                }
+            },
+            {
+                "description": "heavyweight",
+                "competitor": {
+                    "id": "sr:competitor:253371",
+                    "name": "Jones, Jon",
+                    "abbreviation": "JON",
+                    "gender": "male"
+                }
+            },
+            {
+                "description": "womens_bantamweight",
+                "competitor": {
+                    "id": "sr:competitor:542125",
+                    "name": "Pennington, Raquel",
+                    "abbreviation": "PEN",
+                    "gender": "female"
+                }
+            },
+            {
+                "description": "womens_featherweight",
+                "competitor": {
+                    "id": "sr:competitor:246051",
+                    "name": "Nunes, Amanda",
+                    "abbreviation": "NUN",
+                    "gender": "female"
+                }
+            },
+            {
+                "description": "womens_flyweight",
+                "competitor": {
+                    "id": "sr:competitor:542061",
+                    "name": "Grasso, Alexa",
+                    "abbreviation": "GRA",
+                    "gender": "female"
+                }
+            },
+            {
+                "description": "womens_strawweight",
+                "competitor": {
+                    "id": "sr:competitor:542175",
+                    "name": "Zhang, Weili",
+                    "abbreviation": "ZHA",
+                    "gender": "female"
+                }
+            }
+        ]
+    }
 }
