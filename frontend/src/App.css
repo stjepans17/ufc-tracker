@@ -33,11 +33,26 @@
 .nav__links button {
     text-decoration: none;
     font-weight: 500;
-    font-size: 18px;
     color: #edf0f1;
     margin-top: 10px;
 }
 
+@media (max-width: 1700px) {
+    .nav__links li,
+    a,
+    button {
+        font-size: 13.5px;
+        margin-top: 5px;
+    }
+}
+@media (min-width: 1700px) {
+    .nav__links li,
+    a,
+    button {
+        font-size: 18px;
+        margin-top: 10px;
+    }
+}
 .nav__links li {
     display: inline-block;
     padding: 0px 20px;
