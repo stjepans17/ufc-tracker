@@ -1,4 +1,4 @@
-export var countryISOMapping = {
+var countryISOMapping = {
     AFG: "AF",
     ALA: "AX",
     ALB: "AL",
@@ -193,7 +193,6 @@ export var countryISOMapping = {
     SPM: "PM",
     VCT: "VC",
     WSM: "WS",
-    SCO: "GB",
     SMR: "SM",
     STP: "ST",
     SAU: "SA",
@@ -213,6 +212,7 @@ export var countryISOMapping = {
     ESP: "ES",
     LKA: "LK",
     SDN: "SD",
+    SCO: "GB",
     SUR: "SR",
     SJM: "SJ",
     SWZ: "SZ",
@@ -237,6 +237,7 @@ export var countryISOMapping = {
     UKR: "UA",
     ARE: "AE",
     GBR: "GB",
+    ENG: "GB",
     USA: "US",
     UMI: "UM",
     URY: "UY",
@@ -251,4 +252,87 @@ export var countryISOMapping = {
     ZMB: "ZM",
     ZWE: "ZW",
     XKX: "XK",
+};
+
+export const convertISO3ToISO2 = (iso3Code) => {
+    if (countryISOMapping.hasOwnProperty(iso3Code)) {
+        return countryISOMapping[iso3Code];
+    } else {
+        return null;
+    }
+};
+
+export const capitalize = (name) => {
+    if (name === "poundforpound") {
+        return "Pound for pound";
+    }
+    return name.charAt(0).toUpperCase() + name.slice(1);
+};
+
+export const fixRecord = (w, l, d) => {
+    return (
+        <p className="champ">
+            {w} - {l} - {d}
+        </p>
+    );
+};
+export const fixIndex = (index, division) => {
+    if (division === "poundforpound") {
+        return <p className="champ">{index + 1} (P4P)</p>;
+    }
+    if (index !== 0) {
+        return <p className="champ">{index}</p>;
+    }
+    return <p className="champ">Champion</p>;
+};
+
+export const fixName = (name, country, alternativeCountry) => {
+    let splitName = name.split(", ");
+    let firstName = splitName[1];
+    let lastName = splitName[0];
+
+    if (country !== undefined) {
+        // console.log(country);
+        let iso2 = convertISO3ToISO2(country).toLowerCase();
+        return (
+            <p className="champ">
+                <b>
+                    {firstName} {lastName}
+                </b>
+
+                <img
+                    src={`https://flagcdn.com/w20/${iso2}.png`}
+                    alt=""
+                    className="flag"
+                />
+            </p>
+        );
+    }
+    // if (
+    //     alt !== undefined &&
+    //     convertISO3ToISO2(alt).toLowerCase() !== undefined
+    // ) {
+    //     let iso2 = convertISO3ToISO2(alt).toLowerCase();
+
+    //     return (
+    //         <p className="champ">
+    //             <b>
+    //                 {firstName} {lastName}
+    //             </b>
+    //             {/* <img src={`https://flagcdn.com/24x18/${iso2}.png`}></img> */}
+    //             <img
+    //                 src={`https://flagcdn.com/w20/${iso2}.png`}
+    //                 alt=""
+    //                 className="flag"
+    //             />
+    //         </p>
+    //     );
+    // }
+    return (
+        <p className="champ">
+            <b>
+                {firstName} {lastName}
+            </b>
+        </p>
+    );
 };
