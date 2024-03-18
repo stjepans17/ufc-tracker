@@ -303,6 +303,8 @@
             "birth_state": "AR",
             "birth_country": "UNITED STATES",
             "birth_country_code": "USA",
+            "fighting_out_of_country": "UNITED STATES",
+            "fighting_out_of_country_code": "USA",
             "birth_date": "1994-10-04",
             "fighting_out_of_city": "SEARCY",
             "reach": 178,
