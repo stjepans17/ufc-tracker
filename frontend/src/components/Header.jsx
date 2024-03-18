@@ -25,7 +25,7 @@ const Header = () => {
                         <a href="/welterweight">WELTERWEIGHT</a>
                     </li>
                     <li>
-                        <a href="/middlweight">MIDDLEWEIGHT</a>
+                        <a href="/middleweight">MIDDLEWEIGHT</a>
                     </li>
                     <li>
                         <a href="/lightheavyweight">LIGHT HEAVYWEIGHT</a>

@@ -4,6 +4,7 @@ import Loading from "../components/Loading.jsx";
 import Header from "../components/Header.jsx";
 import { Table } from "react-bootstrap";
 import Footer from "../components/Footer.jsx";
+import { convertISO3ToISO2 } from "../utils/functions.js";
 
 const Flyweight = (props) => {
     const currentDivision = props.division;
@@ -34,15 +35,57 @@ const Flyweight = (props) => {
         return <p className="champ">Champion</p>;
     };
 
-    const fixName = (name, index) => {
+    const fixName = (name, cnt, alt) => {
         let splitName = name.split(", ");
         let firstName = splitName[1];
         let lastName = splitName[0];
+        console.log(cnt);
+        // if (
+        //     cnt !== undefined &&
+        //     convertISO3ToISO2(alt).toLowerCase() !== undefined
+        // ) {
+        //     let iso2 = convertISO3ToISO2(cnt).toLowerCase();
+
+        //     return (
+        //         <p className="champ">
+        //             <b>
+        //                 {firstName} {lastName}
+        //             </b>
+        //             {/* <img src={`https://flagcdn.com/24x18/${iso2}.png`}></img> */}
+        //             <img
+        //                 src={`https://flagcdn.com/w20/${iso2}.png`}
+        //                 alt=""
+        //                 className="flag"
+        //             />
+        //         </p>
+        //     );
+        // }
+        // if (
+        //     alt !== undefined &&
+        //     convertISO3ToISO2(alt).toLowerCase() !== undefined
+        // ) {
+        //     let iso2 = convertISO3ToISO2(alt).toLowerCase();
+
+        //     return (
+        //         <p className="champ">
+        //             <b>
+        //                 {firstName} {lastName}
+        //             </b>
+        //             {/* <img src={`https://flagcdn.com/24x18/${iso2}.png`}></img> */}
+        //             <img
+        //                 src={`https://flagcdn.com/w20/${iso2}.png`}
+        //                 alt=""
+        //                 className="flag"
+        //             />
+        //         </p>
+        //     );
+        // }
         return (
             <p className="champ">
                 <b>
                     {firstName} {lastName}
                 </b>
+                {/* <img src={`https://flagcdn.com/24x18/${iso2}.png`}></img> */}
             </p>
         );
     };
@@ -88,7 +131,9 @@ const Flyweight = (props) => {
                                         <td>
                                             {fixName(
                                                 fighter.competitor.name,
-                                                index
+                                                fighter.info
+                                                    .fighting_out_of_country_code,
+                                                fighter.info.birth_country_code
                                             )}
                                         </td>
                                         <td>

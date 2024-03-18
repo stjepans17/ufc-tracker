@@ -240,6 +240,7 @@
         },
         "info": {
             "birth_city": "CHISINAU, MOLDOVA",
+            "fighting_out_of_country_code": "MDA",
             "birth_date": "1995-01-24",
             "reach": 198,
             "height": 190,
@@ -440,6 +441,7 @@
             "birth_state": "-",
             "birth_country": "BRAZIL",
             "birth_country_code": "BRA",
+            "fighting_out_of_country_code": "BRA",
             "birth_date": "1992-11-26",
             "reach": 203,
             "height": 188,
