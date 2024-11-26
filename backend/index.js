@@ -18,7 +18,10 @@ app.get("/", (request, response) => {
     return response.status(234).send("Working");
 });
 
-app.use("/data", route);
+app.use("/api", route);
+
+
+
 // mongoose
 //     .connect(MONGODBURL)
 //     .then(() => {
